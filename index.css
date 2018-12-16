@@ -1,0 +1,15 @@
+html, body{
+	margin: 0 auto;
+	padding: 0
+}
+
+body{
+	background: #2F4F4F;
+}
+
+#dom{
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	background-color: #17f3cd;
+}
